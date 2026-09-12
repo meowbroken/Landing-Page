@@ -182,10 +182,10 @@ function Letter() {
         <p className="letter-heading pixel">a letter for you</p>
         <div className="letter-body">
           <p>Mikee,</p>
-          <p>When I met you, I met an amazing person — someone with the kind of interests and curiosity that make every conversation with you fun, and a kindness that I noticed almost right away. That combination is rare, and I don't think I say often enough how much it means to me.</p>
-          <p>One of the things I love most about you is how amazing your taste is, especially when it comes to choosing movies and series. You somehow always pick something that feels fun, thoughtful, and memorable, and I love sharing those moments with you.</p>
+          <p>When I met you, I met someone truly special — someone whose curiosity, warmth, and kindness made an impression on me almost immediately. You have this amazing way of making every conversation feel easy, every moment feel lighter, and every day feel a little more beautiful just by being in it.</p>
+          <p>One of the things I love most about you is your taste — especially when it comes to movies and series. You always seem to pick something that feels fun, thoughtful, and memorable, and I love being able to share those little moments with you. It says a lot about you, and I admire that about you more than I can put into words.</p>
           <p>Twenty-three looks so good on you already. Here's to another year of inside jokes, silly adventures, quiet nights in, and everything in between — including more Minecraft adventures like the ones we've had, building, exploring, and getting into trouble together. I want to build all of it with you.</p>
-          <p>For your birthday, I also want to wish you the very best in your integrated class and in your future CPA journey. I know how hard you work, and I’m so proud of you. I hope you keep chasing your dreams with the same grace, determination, and heart you give to everyone around you — and I can’t wait to see you pass the CPALE and step into that future you deserve.</p>
+          <p>For your birthday, I also want to wish you the very best in your integrated class and in your future CPA journey. I know how hard you work, and I’m so proud of you. I hope you keep chasing your dreams with the same grace, determination, and heart you give to everyone around you — and I can’t wait to see you pass the CPALE and step into the future you deserve.</p>
           <p>Happy birthday, fa1ry pr1nc355. I hope today feels exactly as special as you make every day feel for me.</p>
         </div>
         <p className="letter-sign">— by Pejay</p>
